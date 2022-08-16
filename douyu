@@ -1,3 +1,4 @@
+
 #EXTINF:-1 tvg-logo="null" group-title="棋牌", 斗牌TV
 https://live.52sf.ga/douyu/645
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202101/f1aba9a31ffe428083b4b75971dabdab_middle.jpg" group-title="DOTA2", 完美世界电竞频道
@@ -22,8 +23,8 @@ https://live.52sf.ga/douyu/6387028
 https://live.52sf.ga/douyu/5532877
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avanew/face/201706/29/17/59972eb76647b04d2d75a6622685384d_middle.jpg" group-title="自走棋", 陌小陌
 https://live.52sf.ga/douyu/48261
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202102/47f4de22caa349ad9814ac032869252b_middle.jpg" group-title="王者荣耀", MrGemini
-https://live.52sf.ga/douyu/36252
+#EXTINF:-1 tvg-logo="null" group-title="王者荣耀", 骚白
+https://live.52sf.ga/douyu/911
 #EXTINF:-1 tvg-logo="null" group-title="绝地求生", Xleft小叮当
 https://live.52sf.ga/douyu/3168536
 #EXTINF:-1 tvg-logo="null" group-title="自定义", 白白的胖胖呀
