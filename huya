@@ -1,6 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://img.whalenas.com:283/image/fireworks.png" group-title="上架啦！", 🎉 APTV上架啦
-http://39.134.67.99/PLTV/88888888/224/3221225816/index.m3u8
+#EXTINF:-1 tvg-logo="null" group-title="自定义", 童锦程
+https://live.52sf.ga/huya/527988
+#EXTINF:-1 tvg-logo="null" group-title="自定义", 东星-耀扬
+https://live.52sf.ga/huya/632956
 #EXTINF:-1 tvg-logo="null" group-title="自定义", Zz1tai姿态
 https://live.52sf.ga/huya/333003
 #EXTINF:-1 tvg-logo="null" group-title="自定义", 大熊小清新
