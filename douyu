@@ -1,12 +1,29 @@
-#EXTM3U
-#EXTINF:-1 tvg-logo="https://img.whalenas.com:283/image/fireworks.png" group-title="上架啦！", 🎉 APTV上架啦
-http://39.134.67.99/PLTV/88888888/224/3221225816/index.m3u8
-#EXTINF:-1 tvg-logo="null" group-title="自定义", 小乃丸
-https://live.52sf.ga/douyu/8747682
-#EXTINF:-1 tvg-logo="null" group-title="自定义", 杰克螳螂
-https://live.52sf.ga/douyu/4814609
 #EXTINF:-1 tvg-logo="null" group-title="自定义", 斗牌TV
 https://live.52sf.ga/douyu/645
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202101/f1aba9a31ffe428083b4b75971dabdab_middle.jpg" group-title="DOTA2", 完美世界电竞频道
+https://live.52sf.ga/douyu/6829849
+#EXTINF:-1 tvg-logo="null" group-title="DOTA2", yyfyyf
+https://live.52sf.ga/douyu/9999
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avanew/face/201804/06f34dadc391956ce43e714464a91671_middle.jpg" group-title="DOTA2", 谢彬DD
+https://live.52sf.ga/douyu/110
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201901/91be229aaec14b80a4855225885f8ff6_middle.jpg" group-title="DOTA2", Zhou陈尧
+https://live.52sf.ga/douyu/88660
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avanew/face/201702/05/20/c11aca7afd581a400ed210309ab81b66_middle.jpg" group-title="DOTA2", 龚建ZSMJ
+https://live.52sf.ga/douyu/52876
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202204/1a56982bd5434550aa2323dcf9ca0a3f_middle.jpg" group-title="DOTA2", Amsssss
+https://live.52sf.ga/douyu/3507497
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar/002/17/35/34_avatar_middle.jpg" group-title="DOTA2", ZippO宝哥
+https://live.52sf.ga/douyu/67554
+#EXTINF:-1 tvg-logo="null" group-title="自走棋", 小红豆阿
+https://live.52sf.ga/douyu/6591422
+#EXTINF:-1 tvg-logo="null" group-title="自走棋", 棋待诏3321
+https://live.52sf.ga/douyu/6387028
+#EXTINF:-1 tvg-logo="null" group-title="自走棋", csy影
+https://live.52sf.ga/douyu/5532877
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202102/47f4de22caa349ad9814ac032869252b_middle.jpg" group-title="王者荣耀", MrGemini
+https://live.52sf.ga/douyu/36252
+#EXTINF:-1 tvg-logo="null" group-title="绝地求生", Xleft小叮当
+https://live.52sf.ga/douyu/3168536
 #EXTINF:-1 tvg-logo="null" group-title="自定义", 白白的胖胖呀
 https://live.52sf.ga/douyu/501761
 #EXTINF:-1 tvg-logo="null" group-title="自定义", 主播索老师
@@ -23,24 +40,8 @@ https://live.52sf.ga/douyu/169
 https://live.52sf.ga/douyu/3484
 #EXTINF:-1 tvg-logo="null" group-title="自定义", 梨落秋溪
 https://live.52sf.ga/douyu/594019
-#EXTINF:-1 tvg-logo="null" group-title="自定义", yyfyyf
-https://live.52sf.ga/douyu/9999
-#EXTINF:-1 tvg-logo="null" group-title="自定义", 谢彬DD
-https://live.52sf.ga/douyu/110
-#EXTINF:-1 tvg-logo="null" group-title="自定义", 小红豆阿
-https://live.52sf.ga/douyu/6591422
-#EXTINF:-1 tvg-logo="null" group-title="自定义", 棋待诏3321
-https://live.52sf.ga/douyu/6387028
-#EXTINF:-1 tvg-logo="null" group-title="自定义", csy影
-https://live.52sf.ga/douyu/5532877
-#EXTINF:-1 tvg-logo="null" group-title="自定义", Xleft小叮当
-https://live.52sf.ga/douyu/3168536
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202101/f1aba9a31ffe428083b4b75971dabdab_middle.jpg" group-title="DOTA2", 完美世界电竞频道
-https://live.52sf.ga/douyu/6829849
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar/002/48/83/16_avatar_middle.jpg" group-title="主机其他游戏", 寅子
 https://live.52sf.ga/douyu/71415
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202102/47f4de22caa349ad9814ac032869252b_middle.jpg" group-title="王者荣耀", MrGemini
-https://live.52sf.ga/douyu/36252
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar/face/201607/24/71fdc2fdb425fa36ba40e6458466c90c_middle.jpg" group-title="王者荣耀", DL丶拖米
 https://live.52sf.ga/douyu/793400
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201905/badbf01f7ab943358bf78bcd9245305f_middle.jpg" group-title="CS:GO", 玩机器丶Machine
@@ -49,8 +50,6 @@ https://live.52sf.ga/douyu/6979222
 https://live.52sf.ga/douyu/9418
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201811/0b47610a6e270c7b7bcb309f7a1ce55b_middle.jpg" group-title="王者荣耀", 温柚
 https://live.52sf.ga/douyu/5910850
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201901/91be229aaec14b80a4855225885f8ff6_middle.jpg" group-title="DOTA2", Zhou陈尧
-https://live.52sf.ga/douyu/88660
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202110/84616b06512c4e2bad81c37d8d3e3db8_middle.jpg" group-title="热门游戏", 呆妹儿小霸王
 https://live.52sf.ga/douyu/2947432
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201908/22af160f57c94db9b0f2396f2607da49_middle.jpg" group-title="传奇", 雨神丶
@@ -135,8 +134,6 @@ https://live.52sf.ga/douyu/4467960
 https://live.52sf.ga/douyu/9408500
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202104/9521d2256ef6419dbd5d6ce2f891ab8b_middle.jpg" group-title="王者荣耀", YTG丶落幕
 https://live.52sf.ga/douyu/9756096
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avanew/face/201702/05/20/c11aca7afd581a400ed210309ab81b66_middle.jpg" group-title="DOTA2", 龚建ZSMJ
-https://live.52sf.ga/douyu/52876
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202108/9afda6c4783040b0886e06fb6e3206ce_middle.jpg" group-title="暗区突围", 幻影yyds
 https://live.52sf.ga/douyu/5901098
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202003/a159b9da76a449248f70240ba0f58027_middle.jpg" group-title="DNF", 剣神白
@@ -277,8 +274,6 @@ https://live.52sf.ga/douyu/10040721
 https://live.52sf.ga/douyu/21267
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202107/83cfa2ffae7a454e80428405336b570c_middle.jpg" group-title="DNF", 无敌美塔塔无敌棒
 https://live.52sf.ga/douyu/7184020
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avanew/face/201804/06f34dadc391956ce43e714464a91671_middle.jpg" group-title="DOTA2", 谢彬DD
-https://live.52sf.ga/douyu/110
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202012/9ec8ad55c85a46ac8dc49b53600f5599_middle.jpg" group-title="热门游戏", A妹A妹
 https://live.52sf.ga/douyu/4520630
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202111/890ba308ad9442b1bc554a4698f51c3d_middle.jpg" group-title="LOL手游", 阿超cc丶
@@ -477,10 +472,6 @@ https://live.52sf.ga/douyu/952595
 https://live.52sf.ga/douyu/10187627
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202201/ba0866a026ca467fb3b8d9421b0b0577_middle.jpg" group-title="CS:GO", 小300TwT
 https://live.52sf.ga/douyu/8489391
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202204/1a56982bd5434550aa2323dcf9ca0a3f_middle.jpg" group-title="DOTA2", Amsssss
-https://live.52sf.ga/douyu/3507497
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar/002/17/35/34_avatar_middle.jpg" group-title="DOTA2", ZippO宝哥
-https://live.52sf.ga/douyu/67554
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avanew/face/201803/28/22/5cd82f8b5c91213eac9b26fedbb26bf3_middle.jpg" group-title="暗黑破坏神：不朽", 紫灵z
 https://live.52sf.ga/douyu/2113049
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avanew/face/201708/09/09/f735ddc6b1aabee62b060d9b821dc600_middle.jpg" group-title="天天象棋", 八卦象棋大师
