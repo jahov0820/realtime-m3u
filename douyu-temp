@@ -2,6 +2,8 @@
 #EXTINF:-1 tvg-logo="null" group-title="DOTA2", yyfyyf
 http://ws-tct.douyucdn.cn/live/9999rMfVyoBTjV0x.flv?uuid=
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avanew/face/201706/29/17/59972eb76647b04d2d75a6622685384d_middle.jpg" group-title="自走棋", 陌小陌
+http://ws-tct.douyucdn.cn/live/48261ruLsTSvlo2K.flv?uuid=
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avanew/face/201706/29/17/59972eb76647b04d2d75a6622685384d_middle.jpg" group-title="自走棋", 陌小陌[视频]
 http://ws-tct.douyucdn.cn/live/48261rAD1ZqJpbmD.flv?uuid=
 #EXTINF:-1 tvg-logo="null" group-title="自走棋", 小红豆阿
 http://ws-tct.douyucdn.cn/live/6591422riL4Biro2.flv?uuid=
@@ -15,8 +17,8 @@ http://ws-tct.douyucdn.cn/live/88660r7UoFWoij2M.flv?uuid=
 http://ws-tct.douyucdn.cn/live/52876rRLzvVdMtyi.flv?uuid=
 #EXTINF:-1 tvg-logo="null" group-title="王者荣耀", 骚白
 http://ws-tct.douyucdn.cn/live/911rsaobai.flv?uuid=
-#EXTINF:-1 tvg-logo="null" group-title="斗鱼棋牌", 斗牌TV
-https://live.52sf.ga/douyu/645
+#EXTINF:-1 tvg-logo="null" group-title="csgo", yjjimpaopao
+http://ws-tct.douyucdn.cn/live/687423rCNRItVfMm.flv?uuid=
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202101/f1aba9a31ffe428083b4b75971dabdab_middle.jpg" group-title="DOTA2", 完美世界电竞频道
 https://live.52sf.ga/douyu/6829849
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avanew/face/201804/06f34dadc391956ce43e714464a91671_middle.jpg" group-title="DOTA2", 谢彬DD
