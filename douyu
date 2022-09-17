@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="null" group-title="斗鱼棋牌", 斗牌TV
-https://live.52sf.ga/douyu/645
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202101/f1aba9a31ffe428083b4b75971dabdab_middle.jpg" group-title="DOTA2", 完美世界电竞频道
-https://live.52sf.ga/douyu/6829849
 #EXTINF:-1 tvg-logo="null" group-title="DOTA2", yyfyyf
 https://live.52sf.ga/douyu/9999
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avanew/face/201804/06f34dadc391956ce43e714464a91671_middle.jpg" group-title="DOTA2", 谢彬DD
