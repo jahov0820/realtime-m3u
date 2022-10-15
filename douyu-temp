@@ -1,23 +1,42 @@
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avanew/face/201803/23/17/faa711e232041d7525a1bd695bf8fa8e_big.jpg" group-title="自定义", yyfyyf
+#EXTM3U
+#EXTINF:-1 tvg-logo="null" group-title="自定义", 小乃丸
+https://epg.112114.xyz/douyu/8747682
+#EXTINF:-1 tvg-logo="null" group-title="自定义", 杰克螳螂
+https://epg.112114.xyz/douyu/4814609
+#EXTINF:-1 tvg-logo="null" group-title="自定义", 斗牌TV
+https://epg.112114.xyz/douyu/645
+#EXTINF:-1 tvg-logo="null" group-title="自定义", 白白的胖胖呀
+https://epg.112114.xyz/douyu/501761
+#EXTINF:-1 tvg-logo="null" group-title="自定义", 主播索老师
+https://epg.112114.xyz/douyu/509251
+#EXTINF:-1 tvg-logo="null" group-title="自定义", 董二千阿
+https://epg.112114.xyz/douyu/2142758
+#EXTINF:-1 tvg-logo="null" group-title="自定义", 日月轮回888 
+https://epg.112114.xyz/douyu/2293920
+#EXTINF:-1 tvg-logo="null" group-title="自定义", Happy | 猫腻
+https://epg.112114.xyz/douyu/65848
+#EXTINF:-1 tvg-logo="null" group-title="自定义", 是个枷锁
+https://epg.112114.xyz/douyu/169
+#EXTINF:-1 tvg-logo="null" group-title="自定义", scboy
+https://epg.112114.xyz/douyu/3484
+#EXTINF:-1 tvg-logo="null" group-title="自定义", 梨落秋溪
+https://epg.112114.xyz/douyu/594019
+#EXTINF:-1 tvg-logo="null" group-title="自定义", yyfyyf
 https://epg.112114.xyz/douyu/9999
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avanew/face/201804/06f34dadc391956ce43e714464a91671_big.jpg" group-title="自定义", 谢彬DD
+#EXTINF:-1 tvg-logo="null" group-title="自定义", 谢彬DD
 https://epg.112114.xyz/douyu/110
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201906/8af79764fda34869aa87ec6c1399c671_big.jpg" group-title="自定义", 小红豆阿
+#EXTINF:-1 tvg-logo="null" group-title="自定义", 小红豆阿
 https://epg.112114.xyz/douyu/6591422
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201902/3b84abf5a2254ac1b192fc94e245bfc0_big.jpg" group-title="自定义", 棋待诏3321
+#EXTINF:-1 tvg-logo="null" group-title="自定义", 棋待诏3321
 https://epg.112114.xyz/douyu/6387028
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202001/842148524da142e191900ad0e78d0168_big.jpg" group-title="自定义", csy影
+#EXTINF:-1 tvg-logo="null" group-title="自定义", csy影
 https://epg.112114.xyz/douyu/5532877
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avanew/face/201702/05/20/c11aca7afd581a400ed210309ab81b66_middle.jpg" group-title="DOTA2", 龚建ZSMJ
-https://epg.112114.xyz/douyu/52876
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201901/91be229aaec14b80a4855225885f8ff6_middle.jpg" group-title="DOTA2", Zhou陈尧
-https://epg.112114.xyz/douyu/88660
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avanew/face/201709/03/15/2958546e2f2e4d7c0bf0238759521ff8_big.jpg" group-title="自定义", Xleft小叮当
+#EXTINF:-1 tvg-logo="null" group-title="自定义", Xleft小叮当
 https://epg.112114.xyz/douyu/3168536
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202101/f1aba9a31ffe428083b4b75971dabdab_middle.jpg" group-title="DOTA2", 完美世界电竞频道
 https://epg.112114.xyz/douyu/6829849
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201903/cff01101879d4cf29a0f5ff86b3c5550_big.jpg" group-title="自定义", pdd
-https://epg.112114.xyz/douyu/101
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar/002/48/83/16_avatar_middle.jpg" group-title="主机其他游戏", 寅子
+https://epg.112114.xyz/douyu/71415
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202102/47f4de22caa349ad9814ac032869252b_middle.jpg" group-title="王者荣耀", MrGemini
 https://epg.112114.xyz/douyu/36252
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar/face/201607/24/71fdc2fdb425fa36ba40e6458466c90c_middle.jpg" group-title="王者荣耀", DL丶拖米
@@ -28,6 +47,8 @@ https://epg.112114.xyz/douyu/6979222
 https://epg.112114.xyz/douyu/9418
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201811/0b47610a6e270c7b7bcb309f7a1ce55b_middle.jpg" group-title="王者荣耀", 温柚
 https://epg.112114.xyz/douyu/5910850
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201901/91be229aaec14b80a4855225885f8ff6_middle.jpg" group-title="DOTA2", Zhou陈尧
+https://epg.112114.xyz/douyu/88660
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202110/84616b06512c4e2bad81c37d8d3e3db8_middle.jpg" group-title="热门游戏", 呆妹儿小霸王
 https://epg.112114.xyz/douyu/2947432
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201908/22af160f57c94db9b0f2396f2607da49_middle.jpg" group-title="传奇", 雨神丶
@@ -112,6 +133,8 @@ https://epg.112114.xyz/douyu/4467960
 https://epg.112114.xyz/douyu/9408500
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202104/9521d2256ef6419dbd5d6ce2f891ab8b_middle.jpg" group-title="王者荣耀", YTG丶落幕
 https://epg.112114.xyz/douyu/9756096
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avanew/face/201702/05/20/c11aca7afd581a400ed210309ab81b66_middle.jpg" group-title="DOTA2", 龚建ZSMJ
+https://epg.112114.xyz/douyu/52876
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202108/9afda6c4783040b0886e06fb6e3206ce_middle.jpg" group-title="暗区突围", 幻影yyds
 https://epg.112114.xyz/douyu/5901098
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202003/a159b9da76a449248f70240ba0f58027_middle.jpg" group-title="DNF", 剣神白
