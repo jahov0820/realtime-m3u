@@ -1,0 +1,7 @@
+name: 小红书走代理
+desc: 小红书走代理
+rules:
+  - DOMAIN-SUFFIX,fengkongcloud.com,🚀 节点选择
+  - DOMAIN-SUFFIX,xhscdn.com,🚀 节点选择
+  - DOMAIN-SUFFIX,xhscdn.net,🚀 节点选择
+  - DOMAIN-SUFFIX,xiaohongshu.com,🚀 节点选择
