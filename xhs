@@ -1,7 +1,35 @@
-name: 小红书走代理
-desc: 小红书走代理
+name: 抖音小红书走代理
+desc: 公司网络强制抖音小红书走代理
 rules:
   - DOMAIN-SUFFIX,fengkongcloud.com,🚀 节点选择
   - DOMAIN-SUFFIX,xhscdn.com,🚀 节点选择
   - DOMAIN-SUFFIX,xhscdn.net,🚀 节点选择
   - DOMAIN-SUFFIX,xiaohongshu.com,🚀 节点选择
+  - HOST-SUFFIX,amemv.com,🚀 节点选择
+  - HOST-SUFFIX,awemeughun.com,🚀 节点选择
+  - HOST-SUFFIX,douyincdn.com,🚀 节点选择
+  - HOST-SUFFIX,douyinvod.com,🚀 节点选择
+  - HOST-SUFFIX,douyinpic.com,🚀 节点选择
+  - HOST-SUFFIX,douyinstatic.com,🚀 节点选择
+  - HOST-SUFFIX,idouyinvod.com,🚀 节点选择
+  - HOST-SUFFIX,byteactivity.com,🚀 节点选择
+  - HOST-SUFFIX,bytecdn.cn,🚀 节点选择
+  - HOST-SUFFIX,bytecdn.com,🚀 节点选择
+  - HOST-SUFFIX,byteeffecttos.com,🚀 节点选择
+  - HOST-SUFFIX,bytegecko.com,🚀 节点选择
+  - HOST-SUFFIX,bytegoofy.com,🚀 节点选择
+  - HOST-SUFFIX,byteimg.com,🚀 节点选择
+  - HOST-SUFFIX,bytescm.com,🚀 节点选择
+  - HOST-SUFFIX,bytedance.com,🚀 节点选择
+  - HOST-SUFFIX,bytemastatic.com,🚀 节点选择
+  - HOST-SUFFIX,bytetos.com,🚀 节点选择
+  - HOST-SUFFIX,byteacctimg.com,🚀 节点选择
+  - HOST-SUFFIX,bytednsdoc.com,🚀 节点选择
+  - HOST-SUFFIX,ecombdapi.com,🚀 节点选择
+  - HOST-SUFFIX,ecombdimg.com,🚀 节点选择
+  - HOST-SUFFIX,ecombdstatic.com,🚀 节点选择
+  - HOST-SUFFIX,ibytedapm.com,🚀 节点选择
+  - HOST-SUFFIX,umeng.com,🚀 节点选择
+  - HOST-SUFFIX,xycdn.com,🚀 节点选择
+  - HOST-SUFFIX,zijieapi.com,🚀 节点选择
+  - HOST-SUFFIX,zjcdn.com,🚀 节点选择
